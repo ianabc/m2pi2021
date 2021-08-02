@@ -33,6 +33,7 @@ people. If you prefer to install things locally,
 way to do that.
 
 Your goals when working through the python tutorials should be to understand...
+
  * Basic python syntax such as keywords, variables, types etc.
  * Loops (`for` & `while`) and conditionals (`if`, `elif`, `else`)
  * Functions: what the `def` keyword does. How to specify positional and keyword
@@ -46,6 +47,9 @@ language, but you should be familiar with the basic terminology and ideas. For
 example, you might not need to write your own classes, but you might need to
 know how to create a subclass to customize a method in someone else's work.
 
+### [Checkup](./CheckUp/Checkup.ipynb)
+In this session we'll go over some of the points above to see if there are any
+sticking points.
 
 ### [Problem Session 1](./ProblemSession1)
 
