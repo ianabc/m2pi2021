@@ -56,6 +56,10 @@ sticking points.
 In this session we will review some basic programming problems and solve them
 using python. 
 
+#### Matt's Colab Notebooks
+
+- [Advent of Code 2020, Day 2](https://colab.research.google.com/drive/1G5KkgN5LjqmpHBUeLja_Rhk-w14yiLBx?usp=sharing)
+- [Advent of Code 2020 Day 6](https://colab.research.google.com/drive/1owNXztgphgSy95MG3_5zUMj8eXwzx-fS?usp=sharing)
 
 ### [Using Jupyter and Python for Data Analysis](./LectureNotes)
 
@@ -68,9 +72,13 @@ analysis. At the end of the course you should feel comfortable working with
 unfamiliar datasets, spotting common data errors and using visualizations to
 understand your data and plan more detailed analysis.
 
-
 ### [Problem Session 2](./ProblemSession2)
 
 In this session, we will build on the content of the python/jupyter course as
 well as the first problem session and explore some more complex problems which
 include external data sources.
+
+#### Matt's Colab Notebooks
+
+- [Car pricing dataset](https://colab.research.google.com/drive/1KnCZL6Z17tQauv2eU0hKWsC_37T3yl5P?usp=sharing)
+- [Adult census dataset](https://colab.research.google.com/drive/1ngu-ssQQJ_Vgf0f9P5kndR6pc1IISFEW?usp=sharing)
